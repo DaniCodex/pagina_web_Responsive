@@ -1,0 +1,29 @@
+.fondo-ave{
+    position: absolute;
+    right: 0;
+    width: 60%;
+    height: 50%;
+    display: block;
+    top: 20%;
+}
+.nav-cont2{
+    margin-left: 30px;
+    display: flex;
+}
+header{
+    padding: 100px;
+}
+.establised{
+    position: absolute;
+    top: 38%;
+    left: -70px;
+    transform: rotate(-90deg);
+    display: inline-block;
+    font-size: 1.7rem;
+    color: #fff;
+    letter-spacing: 5px;
+    font-family: 'Karla', sans-serif;
+}
+.info-brand p br{
+    display: block;
+}

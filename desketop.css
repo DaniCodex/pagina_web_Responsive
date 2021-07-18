@@ -1,0 +1,11 @@
+.bottom-info i{
+    padding: 10px;
+}
+.fondo-ave{
+    position: absolute;
+    right: 0;
+    width: 850px;
+    height: 550px;
+    display: block;
+    top: 10%;
+}
